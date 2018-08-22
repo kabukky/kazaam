@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"strings"
 
+	"github.com/kabukky/transform"
 	"github.com/qntfy/jsonparser"
-	"github.com/qntfy/kabukky/transform"
 )
 
 // TransformFunc defines the contract that any Transform function implementation
