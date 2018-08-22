@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/kabukky/kazaam"
-	"github.com/kabukky/transform"
+	"github.com/kabukky/kazaam/transform"
 	"github.com/qntfy/jsonparser"
 )
 

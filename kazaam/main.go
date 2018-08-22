@@ -10,7 +10,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/kabukky/kazaam"
+	"github.com/kabukky/kazaam/kazaam"
 )
 
 var (
