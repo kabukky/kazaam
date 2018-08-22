@@ -9,7 +9,7 @@ import (
 	"strings"
 
 	"github.com/qntfy/jsonparser"
-	"github.com/qntfy/kazaam/transform"
+	"github.com/qntfy/kabukky/transform"
 )
 
 // TransformFunc defines the contract that any Transform function implementation
